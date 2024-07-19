@@ -13,8 +13,7 @@ This project is a backend for a task management system that supports role-based 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/task-management-system.git
-    cd task-management-system
+   find link in mail to access the repo
     ```
 
 2. Install dependencies:
